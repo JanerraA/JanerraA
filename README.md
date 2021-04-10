@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. My name is Janerra. Welcome to my GitHub space.
 
 <!--
 **JanerraA/JanerraA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
